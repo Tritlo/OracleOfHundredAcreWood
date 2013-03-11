@@ -25,3 +25,5 @@ Notendasögur: 1. Vefþjónn 2. Aðgangskerfi
 Ítrun 4: 
 Notendasögur: 1. Halda utan um upplýsingar um notendur 2. Nýta kerfið á öðrum vettvangi 3. Áskrift
 Áætlaður tími: 1+2+2 = 5 dagar
+
+
