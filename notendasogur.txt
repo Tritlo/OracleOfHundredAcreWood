@@ -37,12 +37,3 @@ Titill: Áskrift
 Lýsing: Útbúa kerfi sem leyfir notendum að greiða fyrir notkun kerfis með ýmsum greiðsluleiðum. 
 Forgangur: 10 
 Tími: 2 dagar
-
-
-
-
-
-Titill:
-Lýsing: 
-Forgangur:
-Tími:
