@@ -37,3 +37,13 @@ Titill: Áskrift
 Lýsing: Útbúa kerfi sem leyfir notendum að greiða fyrir notkun kerfis með ýmsum greiðsluleiðum. 
 Forgangur: 10 
 Tími: 2 dagar
+
+Titill: Rannsóknir
+Lýsing: Rannsaka hvað þarf í kerfið, hvað er hægt að nota til að útbúa það og hvaða gagnasöfn er hægt að hafa.
+Forgangur: 50
+Tími: 1 dagur
+
+Titill: Skipulag
+Lýsing: Gerð notendasagna og verkáætlunnar.
+Forgangur: 50
+Tími: 1 dagur
