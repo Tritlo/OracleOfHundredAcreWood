@@ -1,0 +1,12 @@
+1. vika: Skilgreining verkefnis, rannsóknarvinna, notendasögur og drög að verkáætlun.
+Skila fyrir kl. 16 þann 12. mars.
+
+2. vika: Geymsla gagna, fyrsta útgáfa kerfisins afhent. Skila fyrir kl. 16 þann 19. mars.
+
+3. vika: Gagnaúrvinnsla og útfærsla á reikniritum, önnur útgáfa kerfisins afhent. Skila
+fyrir kl. 16 þann 26. mars.
+
+4. vika: Útfærsla á vefþjóni, þriðja útgáfa kerfisins afhent. Skila fyrir kl. 16 þann 9. apríl.
+
+5. vika: Lokaútgáfa kerfisins afhent, kynning á verkefni. Skila fyrir kl. 16 þann 16. apríl.
+
