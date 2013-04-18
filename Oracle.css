@@ -1,0 +1,71 @@
+<style type='text/css'>
+    p, img, form, option, body, h3, a
+    {
+    text-align:center;
+    font-family:'courier';
+    }
+    body, form
+    {
+    background-color:LightSkyBlue;
+    }
+    th, td
+    {
+    font-family:'courier';
+    text-align:center;
+    vertical-align:center;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    }
+    th.link:hover
+    {
+    background-color: yellow;
+    }
+    th.schedule
+    {
+    border-bottom-style: hidden;
+    }
+    th.schedule.link:hover
+    {
+    border-bottom-style: solid black;
+    background-color: yellow;
+    }
+    table
+    {
+    font-family:'courier';
+    text-align:center;
+    vertical-align:center;
+    border: 1px dashed black;
+    cellspacing: 0px;
+    cellpadding: 3px;
+    }
+    table.menu
+    {
+    height: 20px;
+    width: 70%;
+    margin-left:15%;
+    margin-right:15%;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    }
+    table.schedule
+    {
+    width: 80%;
+    margin-left:10%;
+    margin-right:10%;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    }
+    table.center
+    {
+    height: 65px;
+    width: 70%;
+    margin-left:15%;
+    margin-right:15%;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    }
+</style>
