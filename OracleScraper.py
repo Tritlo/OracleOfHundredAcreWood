@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#encoding utf8
+# coding: utf-8
 #Copyright (C) 2013 Matthías Páll Gissurarson & Sólrún Halla Einarsdóttir. See LICENSE for details.
 import urllib2 as urll
 from itertools import takewhile

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#encoding utf8
+# coding: utf-8
 #Copyright (C) 2013 Matthías Páll Gissurarson & Sólrún Halla Einarsdóttir. See LICENSE for details.
 from BaseHTTPServer import BaseHTTPRequestHandler,HTTPServer
 import sqlite3 as sql
