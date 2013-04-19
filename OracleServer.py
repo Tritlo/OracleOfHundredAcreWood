@@ -23,9 +23,6 @@ def argumentsToDict(path):
                 argdict[sp[0]] = argdict[sp[0]] + ", "+ " ".join(sp[1].split("+"))
     return argdict
 
-
-
-
 def printHeader(self, user = None , cookies = True):
     self.send_response(200)
     self.send_header('Content-type','text/html')
@@ -304,9 +301,14 @@ def printLoginCheck(self,argdict):
         printRedirect(self,"/loginpage?incorrect=1")
 
 
-def getUser(self):
+def getCookies(self):
     cookie = self.headers.get('Cookie')
-    user = cookie.split('=')[1] if cookie else None
+    cookie = cookie.split('; ')
+    return dict(zip(map(lambda x: x.split('=')[0],cookie),map(lambda x: x.split('=')[1],cookie)))
+
+def getUser(self):
+    cookies = getCookies(self)
+    user = cookies['user'] if 'user' in cookies else None
     return user
      
 
